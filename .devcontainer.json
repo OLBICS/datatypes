@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@jmichalenko 
-classroom50
-/
-2022-fall-mario-less
-Public template
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-2022-fall-mario-less/.devcontainer.json
-@CarterZenke
-CarterZenke Create .devcontainer.json
-Latest commit 85ac33d 17 hours ago
- History
- 1 contributor
-125 lines (125 sloc)  4.2 KB
-
 {
   "extensions": [
     "/opt/cs50/extensions/cs50-0.0.1.vsix", 
@@ -151,17 +123,3 @@ Latest commit 85ac33d 17 hours ago
     "workbench.welcomePage.walkthroughs.openOnInstall": false
   }
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
